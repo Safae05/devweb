@@ -1,0 +1,41 @@
+h1{
+    color:blue;
+   font-size :10px;
+  }
+  
+  
+  p{
+    color:red;
+    font-size:8px;
+  }
+  span{
+    color:green;
+      font-size:15px;
+     
+  }
+  h1:hover{
+    color: bisque;
+    cursor:copy;
+  }
+  p:hover{
+    color: bisque;
+    cursor:grap;
+  }
+  span:hover{
+    color: bisque;
+    cursor:pointer;
+  }
+  .divhome{
+    display : flex ;
+    flex-direction: row;
+  }
+  .divprincipale{
+    display : flex ;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  
+  
+  
+  
